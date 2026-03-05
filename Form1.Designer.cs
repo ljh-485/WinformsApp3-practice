@@ -81,9 +81,9 @@
             // 
             // button1
             // 
-            button1.BackColor = Color.SkyBlue;
+            button1.BackColor = Color.DarkViolet;
             button1.Font = new Font("맑은 고딕", 13.875F, FontStyle.Regular, GraphicsUnit.Point, 129);
-            button1.ForeColor = Color.Indigo;
+            button1.ForeColor = Color.DeepSkyBlue;
             button1.Location = new Point(750, 510);
             button1.Name = "button1";
             button1.Size = new Size(301, 90);
